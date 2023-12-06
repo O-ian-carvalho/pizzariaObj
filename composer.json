@@ -1,0 +1,15 @@
+{
+    "name": "ian/solo-projects",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ian Carvalho",
+            "email": "carvalhoian2509@gmail.com"
+        }
+    ],
+    "require": {}
+}
